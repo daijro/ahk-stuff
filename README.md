@@ -7,8 +7,11 @@ Random scripts I wrote in autohotkey
 - [TransparentWindows](https://github.com/daijro/ahk-stuff/tree/main/TransparentWindows)
 
 Alt + Scroll Down = make window under cursor less transparent
+
 Alt + Scroll Up = make window under cursor more transparent
+
 Alt + Q = reset transparency of window under cursor
+
 
 - [TransparentWindowDragging](https://github.com/daijro/ahk-stuff/tree/main/TransparentWindowDragging)
 
