@@ -1,3 +1,4 @@
+#NoEnv
 #SingleInstance force
 #Include %A_LineFile%\..\JSON.ahk
 
